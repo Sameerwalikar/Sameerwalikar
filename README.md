@@ -1,6 +1,6 @@
 <h2>Hi, I'm Sameer Walikar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="./mypic.jpeg" width="230">
+<img align='right' src="./aalu.jpg" width="230">
 
 <p>
 <em>Full Stack Developer Intern at <a href="https://rivominds.com">RivoMinds</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
