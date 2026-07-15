@@ -63,11 +63,7 @@ const sameer = {
 
 <br>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"> Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sameerwalikar&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 <br>
 
